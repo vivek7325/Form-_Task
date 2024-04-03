@@ -1,0 +1,18 @@
+
+  
+  .form-label {
+    font-weight: bold;
+  }
+  
+  .btn-submit {
+    margin-top: 20px;
+  }
+  body {
+    background: linear-gradient(to bottom, #ffffff, #f3f3f3);
+}
+
+.container {
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    padding: 20px;
+}
